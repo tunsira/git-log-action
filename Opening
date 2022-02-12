@@ -1,0 +1,4 @@
+- name: Git Log Changelog Action
+  uses: thenilsdev/git-log-action@1.0.5
+
+
